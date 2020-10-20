@@ -1,0 +1,16 @@
+.calc {
+    width: 100px;
+    height: 40px;
+
+}
+
+h1 {
+    color: lightgreen;
+}
+
+.one {
+    text-align: center;
+    border: solid lightblue 5px;
+    border-radius: 50px;
+    padding: 50px;
+}
